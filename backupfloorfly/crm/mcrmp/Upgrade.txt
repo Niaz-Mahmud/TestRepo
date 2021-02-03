@@ -1,0 +1,31 @@
+If you already have microelephant crm installed and want to upgrade it to version 2.0 from 
+version 1.9 please follow the steps below:
+
+Process 1:
+
+Simply upload the following files on your server
+
+---------------Modified Files---------------------
+
+app/Helpers/Helpers.php
+app/Helpers/task_helper.php
+
+
+Or alternatively
+
+Process: 2
+
+1. Make a backup copy of your existing files and database on your server
+2. Delete all the files and folder accept the .env file, storage and public folder
+3. Now go to microelephant_crm folder that you got after extracting the zip file and then 
+   upload the files and folder to your server, accept the .env file, storage and public folder . 
+4. Done
+
+
+
+
+
+
+
+
+  

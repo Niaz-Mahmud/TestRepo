@@ -1,0 +1,10 @@
+Sitemap: http://www.floorfly.com/sitemap.xml
+User-Agent: *
+Disallow: /sale
+Disallow: /featured
+Disallow: /admin
+Disallow: /rent
+Disallow: /password/email
+
+
+
